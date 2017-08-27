@@ -1,0 +1,19 @@
+.filter--container {
+  background-color: #ffffff;
+  @extend .mb-3;
+
+  p {
+    font-style: italic;
+  }
+}
+
+.filter--form {
+  justify-content: center;
+  @extend .mb-3;
+}
+
+.filter--search-input {
+  border-radius: 0.25rem !important;
+  border-bottom-right-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+}
