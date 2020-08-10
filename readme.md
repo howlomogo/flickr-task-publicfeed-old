@@ -1,6 +1,6 @@
 # Flickr Task App by Matt Pilcher
 
-## This version of the Flickr Task uses the public url provided https://api.flickr.com/services/feeds/photos_public.gne?format=json please view my updated Flickr Example for extra features.
+## This version of the Flickr Task uses the public url provided https://api.flickr.com/services/feeds/photos_public.gne?format=json please view my updated Flickr Example for extra features https://github.com/howlomogo/flickr-task
 
 The application is for a single page flickr feed.
 
